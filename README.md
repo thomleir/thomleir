@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/458f5e61-8361-49c1-8233-ce39871d9b63/thumbnail" >
+<p>
+  I love sitting on the computer!
 </p>
 
 <!---
@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning math with pyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 --->
